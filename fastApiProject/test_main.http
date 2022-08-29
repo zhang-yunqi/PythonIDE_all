@@ -1,0 +1,11 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:1024/
+Accept: application
+
+###
+
+GET http://127.0.0.1:1024/name
+Accept: application
+
+###
